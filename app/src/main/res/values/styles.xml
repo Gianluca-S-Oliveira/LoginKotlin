@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppEditText" parent="Widget.AppCompat.EditText">
+
+
+        <item name="android:inputType">textPassword</item>
+
+    </style>
+
+</resources>
